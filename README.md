@@ -24,7 +24,7 @@ Computer Engineer (CEFET-MG) transitioning into backend development in Go — bu
 
 ### Featured Project
 
-**[Jobs API](https://github.com/vitor-laguardia)** — REST API for job management built in pure Go (standard library, no frameworks), with layered architecture (handler → service → repository → domain), PostgreSQL, and unit/integration test coverage.
+**[Jobs API](https://github.com/vitor-laguardia/jobs-api)** — REST API for job management built in pure Go (standard library, no frameworks), with layered architecture (handler → service → repository → domain), PostgreSQL, and unit/integration test coverage.
 
 ---
 
